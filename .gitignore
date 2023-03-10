@@ -1,0 +1,4 @@
+database/
+.env
+guacamole-initdb.sql
+time.txt
